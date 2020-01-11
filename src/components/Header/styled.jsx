@@ -2,8 +2,8 @@ import styled from 'styled-components';
 
 const LogoBanner = styled.img`
   position:relative;
-  left: calc(50% - 156px);
-  width: 250px;
+  left: calc(50% - 206px);
+  width: 360px;
   height: auto;
   margin: 30px;
   user-drag: none; 
