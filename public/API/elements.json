@@ -1,0 +1,75 @@
+{
+  "digimons": {
+    "fresh": [
+      "botamon",
+      "poyomon",
+      "punimon",
+      "yuramon"
+    ],
+    "training": [
+      "koromon",
+      "tokomon",
+      "tsunomon",
+      "tanemon"
+    ],
+    "rookie": [
+      "agumon",
+      "gabumon",
+      "patamon",
+      "elecmon",
+      "biyomon",
+      "kunemon",
+      "palmon",
+      "betamon",
+      "penguinmon"
+    ],
+    "champion": [
+      "greymon",
+      "meramon",
+      "birdramon",
+      "centarumon",
+      "monochromon",
+      "drimogemon",
+      "tirannomon",
+      "devimon",
+      "ogremon",
+      "leomon",
+      "angemon",
+      "bakemon",
+      "airdramon",
+      "kokatorimon",
+      "unimon",
+      "kabuterimon",
+      "kuwagamon",
+      "vegiemon",
+      "ninjamon",
+      "seadramon",
+      "whamon",
+      "shellmon",
+      "coelamon",
+      "garurumon",
+      "frigmon",
+      "mojamon",
+      "numemon",
+      "sukamon",
+      "nanimon"
+    ],
+    "ultimate": [
+      "metalgreymon",
+      "andromon",
+      "skullgreymon",
+      "megadramon",
+      "giromon",
+      "phoenixmon",
+      "herculeskabuterimon",
+      "piximon",
+      "metalmamemon",
+      "mamemon",
+      "megaseadramon",
+      "monzaemon",
+      "vademon",
+      "digitamamon",
+      "etemon"
+    ]
+  }
+}
