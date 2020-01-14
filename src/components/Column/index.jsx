@@ -3,17 +3,14 @@ import {StyledColumn, StyledColumnWrapper, Min} from './styled'
 import axios from 'axios'
 
 function Column() {
-
     const [res, getRes] = useState({});
-
     const levels = ["fresh", "training", "rookie", "champion", "ultimate"];
 
     useEffect(() => {
-
         const loadData = async () => {
             const response = await axios.get("http://localhost:5000/digimons");
             getRes(response);
-        }
+        };
         loadData()
     }, []);
 
